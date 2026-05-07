@@ -10,7 +10,6 @@
   <a href="https://wa.me/5567991733123">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Gui0403&color=blueviolet&style=for-the-badge&label=VISITORS" alt="Profile Views" />
 </p>
 
 <h3 align="center">Select your language / Selecione seu idioma</h3>
